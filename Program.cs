@@ -15,7 +15,42 @@
 
 Входные данные можно получить путём ввода с клавиатуры, но лучше сделать автогенерацию данных.
 При решении не использовать "читерство".
+
+Решение:
+1 написать метод создания массива
+2 написать метод заполнения массива сгенерированных данных.
+3 написать метод сортитровки массива на символы и числа.
+4 написать метод распечатки массива строк.
+5 заполнить методы значениями.
 */
 
 
+string [] CreateArray(int size)
+{
+return array;
+}
 
+
+void FillArray(string[]array)
+{
+
+}
+
+
+void SortArray(string[]array)
+{
+
+}
+
+
+void PrintArray(string[]array)
+{
+
+}
+
+
+int size = 10;
+string[] array = CreateArray(size);
+FillArray(array);
+SortArray(array);
+PrintArray(array);
